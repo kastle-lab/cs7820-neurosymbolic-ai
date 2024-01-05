@@ -6,8 +6,8 @@
 |  Week 4 |          Seminar Discussions          | [Seminar Summary](../templates/summary.md) |  In-Person Class      |       In-Person Class      |
 |  Week 5 |          Seminar Discussions          | [Seminar Summary](../templates/summary.md) |  In-Person Class      |       In-Person Class      |
 |  Week 6 |          Seminar Discussions          | [Seminar Summary](../templates/summary.md) |  In-Person Class      |       In-Person Class      |
-|  Week 7 |          Seminar Discussions          | [Seminar Summary](../templates/summary.md) |  In-Person Class      |       In-Person Class      |
-|  Week 8 |          Seminar Discussions          | [Seminar Summary](../templates/summary.md) |       Break           |            Break           |
+|  Week 7 |          Seminar Discussions          | [Seminar Summary](../templates/summary.md) |       Break           |            Break           |
+|  Week 8 |          Seminar Discussions          |                  ---                       |  In-Person Class      |       In-Person Class      |
 |  Week 9 |          Seminar Discussions          | [Seminar Summary](../templates/summary.md) |  In-Person Class      |       In-Person Class      |
 | Week 10 |          Seminar Discussions          | [Seminar Summary](../templates/summary.md) |  In-Person Class      |       In-Person Class      |
 | Week 11 |              Project Work             |                  TBD                  |       Group Meetings       |       Group Meetings       |
