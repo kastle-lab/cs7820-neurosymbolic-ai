@@ -1,8 +1,8 @@
 
 # Foundation for NeSy: Translational Distance KGE Models
-Author:  Brandon Dave
-Course: CS7820: Neuro-Symbolic AI
-Semester: Spring 2024
+Author:  Brandon Dave  
+Course: CS7820: Neuro-Symbolic AI  
+Semester: Spring 2024  
 Instructor: Dr. Cogan Shimizu
 
 ## What We Know
@@ -92,10 +92,10 @@ Instructor: Dr. Cogan Shimizu
 ![RotatE graphical representation](./resources/kge-rotate.png)
 
 ## Evaluation Metric
-* Hits@K: The correct results show up in the first k-options
-* Mean Rank: Average Ordinal Ranking across all elements
+* **Hits@K**: The correct results show up in the first k-options
+* **Mean Rank**: Average Ordinal Ranking across all elements
 of the KGE
-* Mean Reciprocal Rank: How likely is it, the correct option
+* **Mean Reciprocal Rank**: How likely is it, the correct option
 appears in the first, second, third, ... nth place?
 
 ## In Summary
