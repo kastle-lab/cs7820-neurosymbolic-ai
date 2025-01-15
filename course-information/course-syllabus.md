@@ -34,8 +34,8 @@ research articles
 * implemented a neurosymbolic architecture
 
 ## Course Administrivia
-* Meeting Location: Russ 154
-* Meeting Hours: 9:30–11:50
+* Meeting Location: Russ 399
+* Meeting Hours: 9:30–10:50
 * Meeting Days: Tuesday and Thursday
 * Textbook: none
 
@@ -60,8 +60,7 @@ Pilot.
 
 ## Evaluation
 The course will be evaluated across three categories.
-* Homework Assignments: \(15\%\)
-* Seminar Participation: \(45\%\)
+* Seminar Participation: \(60\%\)
 * Project Deliverables: \(40\%\)
 
 ## Grading Scale
@@ -84,9 +83,9 @@ any deliverable or grade.
 | **Week \#** | **Content**                |
 | :---------: | :------------------------- |
 |      1      | Review: Knowledge Graphs   |
-|      2      | Review: Deep Learning      |
+|      2      | Knowledge Graph Embeddings |
 |      3      | Overview: Neurosymbolic AI |
-|    4-10     | Seminar Discussions        |
+|    4-10     | Topic Discussions          |
 |    11-14    | Implementation             |
 |     15      | Presentations              |
 
